@@ -13,3 +13,6 @@ WEB_NAME = environ.get('WEB_NAME', 'PandazNetwork')
 #Optional
 SUPPORT_GROUP = environ.get('SUPPORT_GROUP', 'https://t.me/pandaztalks')
 UPDATES_CHANNEL = environ.get('UPDATES_CHANNEL', 'https://t.me/pandaznetwork')
+
+#Port
+PORT = 8080
